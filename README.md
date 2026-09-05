@@ -24,6 +24,13 @@ This repository contains my Semester 3 coursework and programming practice.
   - `string_operations_performance.assignment_problems`
 - Implemented and tested all Session 2 problems.
 
+### Session 3 — OOP Fundamentals
+
+- Completed Week 3 OOP class problems.
+- Completed Week 3 OOP assignment problems.
+- Practiced class definition, object creation, direct field access, constructors, default field values, instance state, and static fields.
+- Implemented and tested all Session 3 problems.
+
 **Next Steps:**
 
 - Continue with the next scheduled session.
@@ -31,3 +38,4 @@ This repository contains my Semester 3 coursework and programming practice.
 **Issues Faced:**
 
 - Encountered and resolved Git branch/upstream setup issues while working with feature branches.
+
